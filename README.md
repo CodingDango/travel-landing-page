@@ -1,4 +1,4 @@
-# Tag
+# Tags
 Learning, HTML, CSS, Javascript, Frontend Practice
 
 # About
